@@ -8,7 +8,7 @@ You won't need any of the files located under the *demo-files* directory when in
 
 # Made with Love
 
-By Dave Balmer (@Balmer), using thee tools:
+By Dave Balmer (@Balmer), using these tools:
 
 ## IcoMoon.io
 
