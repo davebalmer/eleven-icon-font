@@ -16,7 +16,7 @@ By Dave Balmer (@Balmer), using these tools:
 
 ## IcoMoon.io
 
-While these icons are designed from scratch, http://iconmoon.io was used to collect and
+While these icons are designed from scratch, http://icomoon.io was used to collect and
 convert them into production-ready font files.
 
 ## Affinity Designer
