@@ -6,5 +6,7 @@ An outline icon font with commonly-used UI glyphs. Good for mobile and desktop. 
 
 Happy to take pull requests in the `svg` folder if you'd like to add some glyphs.
 
+# Sample
+
 <img src="./eleven-font-sample.png">
 
